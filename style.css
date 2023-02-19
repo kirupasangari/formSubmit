@@ -1,0 +1,43 @@
+/*form {
+    width:70%;
+    text-align: center;
+ }
+
+
+#textfood1{
+    margin-left: 5rem;
+}
+#rightDiv{
+    
+    padding: 50px 50px 50px 50px;
+    width: 50px;
+    margin-left:50px;
+    align-items: flex-start;
+}*/
+#address{
+    margin-left: 7rem;
+
+}
+#Gender{
+    margin-left: 7rem; 
+}
+.radiobtnFemale{
+    margin-left: 9rem;
+}
+#genderlableop1{
+    padding: 1rem 1rem;
+    margin-left: 11rem;   
+}
+.radiobtnMale{
+    margin-left:5rem ;
+}
+#genderlableop2{
+    padding: 1rem 1rem;
+    margin-left: 17rem ;
+}
+#divOption{
+margin-left: 8rem;
+}
+.lableDiv{
+    padding:0.5rem 0.5rem;    
+}
